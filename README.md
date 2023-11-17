@@ -14,7 +14,7 @@ Future enhancements of the E-CRIME REPORT HUB might include the integration of a
 In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the realm of law enforcement technology. Through seamless user interactions, robust data management, and comprehensive validations, this platform endeavors to empower victims and law enforcement agencies in addressing and managing crimes effectively in a digitally connected world.
 
 
-# Tech Stack:-
+# Tech Stack
 * Eclipse IDE (Java EE)
 * JDK 17
 * MySQL Databae
