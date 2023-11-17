@@ -26,6 +26,8 @@ In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the
 * Tomcat-Servlet-API 10.0.10.jar
 * JSTL-1.2.jar
 * CSS-Bootstrap
+
+# ENTITY RELATIONSHIP DIAGRAM
 ![ecrh_er](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/ced29c04-aaff-4031-afd8-199a1a4324da)
 
   
