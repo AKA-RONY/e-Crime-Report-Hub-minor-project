@@ -27,7 +27,17 @@ In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the
 * JSTL-1.2.jar
 * CSS-Bootstrap
 
-# ENTITY RELATIONSHIP DIAGRAM
+# ENTITY RELATIONSHIP DIAGRAM (ERD)
 ![ecrh_er](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/ced29c04-aaff-4031-afd8-199a1a4324da)
+# DATAFLOW DIAGRAM LVL0 | CONTEXT LEVEL DIAGRAM
+![ecrh2](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/3c09c9be-ea2c-499f-a805-354c3bb315a1)
+# DATAFLOW DIAGRAM LVL1
+![ecrhdfdlvl1](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/f33e19dd-9871-4b7d-9b16-2d635dcfd8d6)
+# DATABASE DESIGN
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/cf5df120-8a8e-43b6-9e26-f9c267d06c49)
+
+
+
+
 
   
