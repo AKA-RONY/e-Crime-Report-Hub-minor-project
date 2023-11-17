@@ -18,7 +18,7 @@ In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the
 * Eclipse IDE (Java EE)
 * JDK 17
 * MySQL Databae
-* Tomcat Server
+* Tomcat Server v9.0
 * HTML,CSS,JS,JSP
 
 # Libraries and packages
