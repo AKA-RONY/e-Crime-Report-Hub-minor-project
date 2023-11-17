@@ -12,3 +12,7 @@ The project’s testing phase involved rigorous manual testing methodologies enc
 Future enhancements of the E-CRIME REPORT HUB might include the integration of automated testing methodologies, thereby augmenting the efficiency of the testing process and expanding test coverage. Additionally, potential improvements could involve enhancing user interfaces, refining data validation algorithms, and introducing multi-factor authentication for heightened security.
 
 In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the realm of law enforcement technology. Through seamless user interactions, robust data management, and comprehensive validations, this platform endeavors to empower victims and law enforcement agencies in addressing and managing crimes effectively in a digitally connected world.
+
+
+# Tech Stack:-
+* 
