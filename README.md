@@ -37,41 +37,22 @@ In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the
 ![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/cf5df120-8a8e-43b6-9e26-f9c267d06c49)
 
 
+# QUICKSHOTS:
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/9217512b-6b57-49ef-b47e-5e96edee5a67)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/1adb0f1a-23cc-443f-91b8-65983b993d5e)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/2a6e6bf9-b70b-4d83-ac7b-e5a5a3187bfc)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/b4c95ea8-3d48-422b-ad24-ff68dfa7e3aa)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/fbe78f93-9592-4bce-9749-ee7d21afb05c)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/f4a02edd-924f-4a9d-8642-2bf0b0ef7c6a)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/41cc11d2-8ada-4af7-956f-2aacb1a9af2a)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/da27eb0e-8f05-4cc4-9e75-fb9451233a64)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/3961a0bf-0749-4c2c-a014-615e464e970d)
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/4a1fbc5b-d65e-4582-8c5d-dacca958d170)
 
 
-TESTING
-Manual Testing:
-Definition: Manual testing involves human intervention to execute test cases without the use of automation tools.
-Significance: It allows testers to explore the application, identify bugs, and evaluate the user interface from a user's perspective.
-Process: Testers execute test cases step by step, observing the system's behavior, and validating whether it aligns with the expected outcomes specified in the requirements.
-Positive Testing:
-Definition: Positive testing validates the system's behavior when provided with expected and valid input.
-Scenario: For our project, positive testing could involve entering valid user information during registration, filing an FIR with all required fields filled correctly, and checking if the system processes it without errors.
-Negative Testing:
-Definition: Negative testing evaluates the system's behavior when provided with unexpected or invalid input.
-Scenario: In our project, negative testing might include attempting to register with incomplete user details, filing an FIR with missing mandatory information, or entering incorrect data formats (e.g., entering letters in a numeric field).
-Manual Testing in our Project:
-Scope: As we performed manual testing, we manually executed test scenarios covering various functionalities like user registration, FIR filing, login functionality, and error handling.
-Execution: Describe how we interacted with the application step by step, providing different inputs and observing the system's responses.
-Validation: Explain how we validated each test scenario against the expected outcomes and whether the system behaved as intended.
-Bug Reporting: If we found any issues or discrepancies, detail how we reported them, including steps to reproduce the problem, its impact, and the expected versus actual behavior.
-
-Positive Testing with JavaScript Validation:
-Scenario: User registration form validation (positive testing), Delete FIR from admin panel , add new admin etc…
-
-JavaScript Code Functionality:
-Validate that all mandatory fields are filled out correctly (name, email, password, etc.)
-Check email format validity using JavaScript regex.
-Ensure passwords meet complexity requirements (length, special characters, etc.).
-
-Observation: Document the behavior when valid inputs are entered:
-When all mandatory fields are correctly filled, the form submits successfully.
-For instance, if a user enters a valid email format (e.g., "user@example.com"), the validation script allows the form submission.
-If the admin wants to delete an FIR entry for the very first time it wont give any error, and if  the admin tries to delete the same entry again it raises an exception.(discussed in later part).
-If the admin is logged in and wants to add another admin , he/she can do that if  they put the details correct format. 
+# ABOUT US:
+![image](https://github.com/Salvik24Bhowal/e-Crime-Report-Hub/assets/67736824/a43f0955-e6ed-4de0-8f22-eed686334287)
 
 
 
 
-
-  
