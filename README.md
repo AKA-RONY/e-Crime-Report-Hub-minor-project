@@ -39,5 +39,39 @@ In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the
 
 
 
+TESTING
+Manual Testing:
+Definition: Manual testing involves human intervention to execute test cases without the use of automation tools.
+Significance: It allows testers to explore the application, identify bugs, and evaluate the user interface from a user's perspective.
+Process: Testers execute test cases step by step, observing the system's behavior, and validating whether it aligns with the expected outcomes specified in the requirements.
+Positive Testing:
+Definition: Positive testing validates the system's behavior when provided with expected and valid input.
+Scenario: For our project, positive testing could involve entering valid user information during registration, filing an FIR with all required fields filled correctly, and checking if the system processes it without errors.
+Negative Testing:
+Definition: Negative testing evaluates the system's behavior when provided with unexpected or invalid input.
+Scenario: In our project, negative testing might include attempting to register with incomplete user details, filing an FIR with missing mandatory information, or entering incorrect data formats (e.g., entering letters in a numeric field).
+Manual Testing in our Project:
+Scope: As we performed manual testing, we manually executed test scenarios covering various functionalities like user registration, FIR filing, login functionality, and error handling.
+Execution: Describe how we interacted with the application step by step, providing different inputs and observing the system's responses.
+Validation: Explain how we validated each test scenario against the expected outcomes and whether the system behaved as intended.
+Bug Reporting: If we found any issues or discrepancies, detail how we reported them, including steps to reproduce the problem, its impact, and the expected versus actual behavior.
+
+Positive Testing with JavaScript Validation:
+Scenario: User registration form validation (positive testing), Delete FIR from admin panel , add new admin etc…
+
+JavaScript Code Functionality:
+Validate that all mandatory fields are filled out correctly (name, email, password, etc.)
+Check email format validity using JavaScript regex.
+Ensure passwords meet complexity requirements (length, special characters, etc.).
+
+Observation: Document the behavior when valid inputs are entered:
+When all mandatory fields are correctly filled, the form submits successfully.
+For instance, if a user enters a valid email format (e.g., "user@example.com"), the validation script allows the form submission.
+If the admin wants to delete an FIR entry for the very first time it wont give any error, and if  the admin tries to delete the same entry again it raises an exception.(discussed in later part).
+If the admin is logged in and wants to add another admin , he/she can do that if  they put the details correct format. 
+
+
+
+
 
   
