@@ -15,4 +15,13 @@ In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the
 
 
 # Tech Stack:-
-* 
+* Eclipse IDE (Java EE)
+* JDK 17
+* MySQL Databae
+* Tomcat Server
+* HTML,CSS,JS,JSP
+
+# Libraries and packages
+* MySQL-connector 8.0.11.jar
+* Tomcat-Servlet-API 10.0.10.jar
+* JSTL-1.2.jar
