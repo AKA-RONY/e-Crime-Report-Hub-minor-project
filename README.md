@@ -5,7 +5,7 @@ At its core, the E-CRIME REPORT HUB is designed to alleviate the constraints ass
 
 The platform's functionality is rooted in its ability to cater to the diverse needs of users. Victims, irrespective of geographical limitations, can register accounts, file FIRs, and seek guidance through informative articles categorized according to various crime types. User registration entails comprehensive validations utilizing JavaScript, ensuring the accuracy and completeness of the entered data.
 
-	@@ -13,46 +18,24 @@ Future enhancements of the E-CRIME REPORT HUB might include the integration of a
+	
 
 In conclusion, the E-CRIME REPORT HUB stands as a testament to innovation in the realm of law enforcement technology. Through seamless user interactions, robust data management, and comprehensive validations, this platform endeavors to empower victims and law enforcement agencies in addressing and managing crimes effectively in a digitally connected world.
 
